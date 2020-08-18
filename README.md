@@ -5,7 +5,7 @@
 You will get a prompt like
 
 ```
-Empirical version 0.4.2
+Empirical version 0.6.0
 Copyright (C) 2019--2020 Empirical Software Solutions,
  LLC
 
@@ -22,7 +22,7 @@ Pre-included example files are:
 You will be able to load these.
 
 ```
->>> load$("prices.csv")
+>>> load("prices.csv")
 ```
 
-See the [Demo](https://www.empirical-soft.com/demo.html) and [Tutorial](https://www.empirical-soft.com/tutorial.html) for how to use Empirical.
+See the [Tutorial](https://www.empirical-soft.com/tutorial.html) for how to use Empirical.
