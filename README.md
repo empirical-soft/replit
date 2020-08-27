@@ -5,9 +5,9 @@
 You will get a prompt like
 
 ```
-Empirical version 0.6.0
-Copyright (C) 2019--2020 Empirical Software Solutions,
- LLC
+Empirical version 0.6.5
+Copyright (C) 2019--2020 Empirical Software Solutions, LLC
+Type '?' for help. Type '\help' for magic commands.
 
 >>>
 ```
